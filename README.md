@@ -1,2 +1,2 @@
 # shell-scripts-library-
-bash scripts for ci/cd
+bash scripts used frequently 
